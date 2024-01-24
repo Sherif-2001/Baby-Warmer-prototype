@@ -44,3 +44,11 @@ The response time is about 1 to 4 seconds (according to the datasheet.), which i
 - In cold environments, use a suitable heating element to compensate.
 - Consider minimizing heat loss to the atmosphere for more effective temperature regulation.
 - The prototype's heating element consumes significant power (100 watts), equivalent to 10 LED bulbs.
+
+## Team Members
+1. Sherif Ahmed
+2. Ahmed El-Sarta
+3. Dina Khaled
+4. Omniya Sayed
+5. Alaa Yasser
+6. Hanya Ahmed
